@@ -9,17 +9,17 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 | Issue | Task | Status |
 |-------|------|--------|
 | #1 | | To do | Done
-| #2 | | To do |
-| #3 | | To do |
+| #2 | | To do | Done
+| #3 | | To do | Done
 
 ### Daily standup notes
 - Standup 1: [what I will do now / what could block me]
 - Standup 2: [what I did / what is next / any blocker]
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+closed all 3 issues as instructed
 
 ### Retrospective
-- What went well: 
-- What was difficult:
-- What I will change next time:
+- What went well: overall it was okay
+- What was difficult: accidentally pressed something that didnt let me write in the terminal, took long to figure out
+- What I will change next time: not sure
