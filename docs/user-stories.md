@@ -7,3 +7,5 @@ As a junior developer, I want to master core data structures and algorithmic pat
 As a software engineer, I want to learn and apply clean code principles and design patterns, so that my code is readable, maintainable, and easy for my team to collaborate on.
 
 As a programmer, I want to practice hands-on debugging, version control (Git), and automated testing daily, so that I can ship reliable features to production with minimal bugs.
+
+
