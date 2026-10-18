@@ -8,7 +8,7 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | To do |
+| #1 | | To do | Done
 | #2 | | To do |
 | #3 | | To do |
 
@@ -20,6 +20,6 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 [What did you finish? What did you show a classmate?]
 
 ### Retrospective
-- What went well:
+- What went well: 
 - What was difficult:
 - What I will change next time:
