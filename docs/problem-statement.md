@@ -86,7 +86,7 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 * **Core Gameplay Mechanics & Interface Modules:**
   * **Workstation Ticket Console & Virtual Smartphone:** Inspecting ticket artifacts, checking internal directory sticky notes, and interacting with smartphone pop-up alerts.
   * **Out-of-Band Secondary Verification:** Practicing secondary-channel verification via internal phone extensions prior to executing high-risk actions.
-  * **Indicator-Level Feedback Subsystem:** Reviewing post-scenario debrief panels that highlight exact red flags, explain psychological manipulation principles, and guide corrective behavior without rigid failure states [94, 218, 273, 291–293].
+  * **Indicator-Level Feedback Subsystem:** Reviewing post-scenario debrief panels that highlight exact red flags, explain psychological manipulation principles, and guide corrective behavior without rigid failure states.
 * **Technical System Architecture:**
   * **Event-Driven Finite State Machine (FSM):** Implementing a state-driven logic engine in an interactive game engine (such as Unity or Ren'Py) to systematically govern gameplay state transitions across workstation, mobile, and feedback phases.
 
