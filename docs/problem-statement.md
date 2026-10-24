@@ -1,7 +1,7 @@
 # Problem Statement
 
 ## Who is affected?
-Corporate employees, Tier-1 IT helpdesk personnel, and non-technical staff & person across organizations serve as the primary targets of social engineering attacks (Ambre et al., 2025; Patil et al., 2026)
+Corporate employees, and non-technical staff & person across organizations serve as the primary targets of social engineering attacks (Ambre et al., 2025; Patil et al., 2026)
 
 ## What exactly is going wrong?
 Human error remains the primary vulnerability exploited by cybercriminals through psychological manipulation tactics—such as artificial urgency, fake authority, and panic—across email, smishing, and vishing channels, contributing to **60% to 68% of all organizational data breaches globally** (Andersen, 2025; Khalil, 2025; Patil et al., 2026)[2]. Traditional cybersecurity awareness training relies on passive learning formats (e.g., static slides, annual compliance videos, and periodic quizzes) that fail to engage users, creating an **"awareness-action gap"** where employees cannot translate theoretical security rules into practical threat detection habits under live pressure (Ambre et al., 2025; Khalil, 2025; Patil et al., 2026)
