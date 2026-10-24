@@ -81,7 +81,7 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 
 #### **In-Scope Project Elements**
 * **Simulated Threat Vectors & Attack Typologies:**
-  * **Email Phishing & Impersonation:** Evaluating deceptive email tickets containing lookalike domains, spoofed authentication headers (`SPF`/`DKIM`/`DMARC`), credential harvesting links, and malicious file attachments.
+  * **Email Phishing & Impersonation:** Evaluating deceptive email tickets containing lookalike domains, spoofed authentication headers, credential harvesting links, and malicious file attachments.
   * **Multi-Channel Scams (Smishing & Vishing):** Navigating incoming mobile SMS alerts and interactive audio vishing phone calls that simulate executive or IT helpdesk impersonation.
 * **Core Gameplay Mechanics & Interface Modules:**
   * **Workstation Ticket Console & Virtual Smartphone:** Inspecting ticket artifacts, checking internal directory sticky notes, and interacting with smartphone pop-up alerts.
