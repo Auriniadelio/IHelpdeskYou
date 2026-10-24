@@ -53,7 +53,7 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 
 ---
 
-### **4. Technical & Pedagogical Justification for Game Simulations and FSM Logic**
+### **4. Technical Justification for Game Simulations and FSM Logic**
 > *"Research in learning science has established that interactive environments, in particular games, are one of the most effective training methods and are highly motivational for users, especially when they adhere to design principles for educational games."*  
 > — **Sheng et al. (2007)**
 
