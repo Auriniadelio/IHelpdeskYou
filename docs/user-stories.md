@@ -25,6 +25,7 @@ Acceptance criteria:
 User Stories 3
 
 As a helpdesk trainee, I want to review an indicator-level feedback overlay after completing a scenario, so that I can understand the specific technical red flags I correctly identified or missed.
+
 Acceptance criteria:
 *    Given that a scenario transition occurs, when the results summary screen loads, the system shall display an indicator debrief highlighting email header failures and psychological manipulation tactics.
 *    Given that a user makes an incorrect decision on a ticket, when the feedback overlay is displayed, the system shall provide corrective instructional guidance without enforcing a game-over screen.
