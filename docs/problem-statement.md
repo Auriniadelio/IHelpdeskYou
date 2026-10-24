@@ -71,9 +71,9 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 
 #### **Users and Stakeholders**
 * **Primary Target Users:**
-  * **Corporate Employees & Non-Technical Personnel:** Staff members across organizational departments (such as Finance, Human Resources, and General Operations) who are frequently targeted by human-centric social engineering attacks.
+  * **Corporate Employees & Non-Technical Personnel:** Staff members across organizations who are frequently targeted by social engineering attacks.
 * **Key Stakeholders:**
-  * **Organizational IT & Cybersecurity Teams:** Administrators seeking to lower organizational vulnerability, prevent data breaches, and foster an active security culture.
+  * **Organizational IT & Cybersecurity Teams:** Administrators seeking to lower organization's vulnerability and prevent the data breaches.
   * **Training Managers & Security Officers:** Instructional designers and compliance officers who require measurable tracking data on employee threat evaluation capabilities to meet regulatory standards.
   * **Executive Leadership:** Senior management wanting to in reducing financial losses associated with business email compromise and funds transfer fraud.
 
