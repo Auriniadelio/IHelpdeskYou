@@ -1,11 +1,32 @@
 # User Stories
 
-As a CS student, I want to be good at coding, so that i can be competent. 
+---
 
-As a junior developer, I want to master core data structures and algorithmic patterns, so that I can write efficient, scalable code and pass technical evaluations.
+User Stories 1
 
-As a software engineer, I want to learn and apply clean code principles and design patterns, so that my code is readable, maintainable, and easy for my team to collaborate on.
+As a helpdesk trainee, I want to inspect support tickets using diagnostic tools, so that I can identify social engineering indicators like spoofed headers and lookalike domains.
 
-As a programmer, I want to practice hands-on debugging, version control (Git), and automated testing daily, so that I can ship reliable features to production with minimal bugs.
+Acceptance criteria:
+    Given that a support ticket contains raw evidence artifacts, when the trainee opens the diagnostic inspector tool, the system shall parse the raw headers and display verification statuses.
+    Given that a ticket URL is selected, when the trainee checks the domain lookup tool, the system shall compare the domain against official corporate records and highlight lookalike domain discrepancies.
+
+---
+
+User Stories 2
+
+As a corporate leader, I want employees to experience simulated cyber attacks on a during scheduled training time, so that they can practice detecting social engineering threats.
+
+Acceptance criteria:
+    Given that the state machine enters a personal break state, when an off-duty scenario triggers, the system shall simulate an incoming text message or phone call on the virtual smartphone interface.
+    Given that a simulated vishing call is active, when the user chooses to verify the caller's identity through an out-of-band channel, the system shall register a successful security decision.
+
+---
+
+User Stories 3
+
+As a helpdesk trainee, I want to review an indicator-level feedback overlay after completing a scenario, so that I can understand the specific technical red flags I correctly identified or missed.
+Acceptance criteria:
+    Given that a scenario transition occurs, when the results summary screen loads, the system shall display an indicator debrief highlighting email header failures and psychological manipulation tactics.
+    Given that a user makes an incorrect decision on a ticket, when the feedback overlay is displayed, the system shall provide corrective instructional guidance without enforcing a game-over screen.
 
 
