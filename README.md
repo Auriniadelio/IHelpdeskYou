@@ -1,4 +1,4 @@
-# [Project Title]
+# A Narrative-Driven Technical Support Simulation Game Using Finite State Machine for Cybersecurity Literacy
 
 [One sentence: what problem does this project solve, and for whom?]
 
