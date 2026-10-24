@@ -1,6 +1,6 @@
 # A Narrative-Driven Technical Support Simulation Game Using Finite State Machine for Cybersecurity Literacy
 
-[One sentence: what problem does this project solve, and for whom?]
+This project solves the "awareness-action gap" in traditional, passive cybersecurity training for corporate employees and non-technical personnel by providing an immersive, narrative-driven 3D helpdesk simulation powered by an Event-Driven Finite State Machine (FSM) to build practical threat detection skills against social engineering attacks
 
 ## Problem statement
 [3 to 5 sentences. Copy them from docs/problem-statement.md]
