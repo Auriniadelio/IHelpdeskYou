@@ -1,7 +1,7 @@
 # Problem Statement
 
 ## Who is affected?
-**Corporate employees, Tier-1 IT helpdesk personnel, and non-technical staff** across organizations serve as the primary targets of social engineering attacks.
+**non-technical persons** across age and position serve as the primary targets of social engineering attacks.
 
 ## What exactly is going wrong?
 Human error remains the primary vulnerability exploited by cybercriminals through psychological manipulation tactics—such as artificial urgency, panic, and fake authority—across email, smishing, and vishing channels, contributing to **60% to 68% of all organizational data breaches globally**. Conventional cybersecurity awareness training relies on passive learning formats (e.g., static slides, annual compliance videos, and mandatory quizzes) that fail to engage users, creating a critical **"awareness-action gap"** where employees cannot translate theoretical security rules into practical threat detection habits under real-world pressure.
