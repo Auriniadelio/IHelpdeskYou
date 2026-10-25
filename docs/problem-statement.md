@@ -93,7 +93,7 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 #### **Out-of-Scope Project Elements**
 * **Offensive Exploit & Malware Development:** Active creation of weaponized malware binaries, reverse engineering of real-world payloads, buffer overflow exploits, or live network packet sniffing.
 * **Physical Hardware & Virtual Reality (VR) Equipment:** Physical escape-room lockboxes, IoT wearable sensors, or dedicated VR headsets; the simulation is designed specifically for standard desktop and web browser environments to minimize hardware dependency.
-# To summarize : Anything to technical. The project is focused on basic awareness of cyber literacy rather than developing them as an offensive/defensive cyber professional
+#### To summarize : Anything to technical. The project is focused on basic awareness of cyber literacy rather than developing them as an offensive/defensive cyber professional
 
 ### References
 
