@@ -65,11 +65,7 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 
 ---
 
-### User and Stakeholders
-
----
-
-#### **Users and Stakeholders**
+### **Users and Stakeholders**
 * **Primary Target Users:**
   * **Corporate Employees & Non-Technical Personnel:** Staff members across organizations who are frequently targeted by social engineering attacks.
 * **Key Stakeholders:**
@@ -79,7 +75,7 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 
 ---
 
-#### **In-Scope Project Elements**
+### **In-Scope Project Elements**
 * **Simulated Threat Vectors & Attack Typologies:**
   * **Email Phishing & Impersonation:** Evaluating deceptive email tickets containing lookalike domains, spoofed authentication headers, credential harvesting links, and malicious file attachments.
   * **Multi-Channel Scams (Smishing & Vishing):** Navigating incoming mobile SMS alerts and interactive audio vishing phone calls that simulate executive or IT helpdesk impersonation.
@@ -90,7 +86,7 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 * **Technical System Architecture:**
   * **Event-Driven Finite State Machine (FSM):** Implementing a state-driven logic engine in an interactive game engine (such as Unity or Ren'Py) to systematically govern gameplay state transitions across workstation, mobile, and feedback phases.
 
-#### **Out-of-Scope Project Elements**
+### **Out-of-Scope Project Elements**
 * **Offensive Exploit & Malware Development:** Active creation of weaponized malware binaries, reverse engineering of real-world payloads, buffer overflow exploits, or live network packet sniffing.
 * **Physical Hardware & Virtual Reality (VR) Equipment:** Physical escape-room lockboxes, IoT wearable sensors, or dedicated VR headsets; the simulation is designed specifically for standard desktop and web browser environments to minimize hardware dependency.
 #### To summarize : Anything to technical. The project is focused on basic awareness of cyber literacy rather than developing them as an offensive/defensive cyber professional
