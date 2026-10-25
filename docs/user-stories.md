@@ -4,21 +4,21 @@
 
 User Stories 1
 
-As a helpdesk trainee, I want to inspect support tickets using diagnostic tools, so that I can identify social engineering indicators like spoofed headers and lookalike domains.
+As a player in the simulation, I want to open an in-game threat wiki modal while inspecting virtual tickets, so that I can cross-reference suspicious email traits against documented attack patterns within the game interface.
 
 Acceptance criteria:
-*    Given that a support ticket contains raw evidence artifacts, when the trainee opens the diagnostic inspector tool, the system shall parse the raw headers and display verification statuses.
-*    Given that a ticket URL is selected, when the trainee checks the domain lookup tool, the system shall compare the domain against official corporate records and highlight lookalike domain discrepancies.
+*    Given that the virtual workstation interface is active, when the player clicks the in-game wiki icon, the system shall render a searchable modal window displaying simulated social engineering
+*    Given that the player selects a wiki entry on lookalike domain spoofing, when comparing it to an active virtual ticket on screen, the system shall highlight matching terminology and verification steps in the UI.
 
 ---
 
 User Stories 2
 
-As a corporate leader, I want employees to experience simulated cyber attacks on a during scheduled training time, so that they can practice detecting social engineering threats.
+As a corporate leader, I want employees to experience simulated cyber attacks on an interactive simulation platform during scheduled training time, so that they can practice detecting social engineering threats in a safe, controlled environment
 
 Acceptance criteria:
-*    Given that the state machine enters a personal break state, when an off-duty scenario triggers, the system shall simulate an incoming text message or phone call on the virtual smartphone interface.
-*    Given that a simulated vishing call is active, when the user chooses to verify the caller's identity through an out-of-band channel, the system shall register a successful security decision.
+*    When an employee enters the game, the system shall execute an FSM workstation shift with simulated multi-vector social engineering scenarios
+*    Given that employees complete simulated attack scenarios during their training shift, when the shift resolves, the system shall log individual and group decision accuracy metrics to the administrative summary dashboard.
 
 ---
 
@@ -27,7 +27,7 @@ User Stories 3
 As a helpdesk trainee, I want to review an indicator-level feedback overlay after completing a scenario, so that I can understand the specific technical red flags I correctly identified or missed.
 
 Acceptance criteria:
-*    Given that a scenario transition occurs, when the results summary screen loads, the system shall display an indicator debrief highlighting email header failures and psychological manipulation tactics.
+*    Given that a scenario transition occurs, when the results summary screen loads, the system shall display an indicator debrief highlighting failures and psychological manipulation tactics.
 *    Given that a user makes an incorrect decision on a ticket, when the feedback overlay is displayed, the system shall provide corrective instructional guidance without enforcing a game-over screen.
 
 
