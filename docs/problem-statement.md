@@ -81,7 +81,7 @@ In-Scope:
 *	Architecture: An Event-Driven Finite State Machine (FSM) managing gameplay states and narrative transitions.
 Out-of-Scope:
 *	Advanced Technical Skills: Offensive malware creation, live exploits, buffer overflows, or technical packet analysis.
-Summary: Basic cybersecurity literacy and behavioral threat awareness for general end-users, rather than technical professional training.
+#### Summary: Basic cybersecurity literacy and behavioral threat awareness for general end-users, rather than technical professional training.
 
 
 ### References
