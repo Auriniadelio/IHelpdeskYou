@@ -66,30 +66,23 @@ Corporate employees and non-technical personnel remain highly vulnerable to soph
 ---
 
 ### **Users and Stakeholders**
-* **Primary Target Users:**
-  * Staff members across organizations who are frequently targeted by social engineering attacks.
+* **Users:**
+  *	Staff members across organizations who are frequently targeted by social engineering attacks.
 * **Key Stakeholders:**
-  * Administrators seeking to lower organization's vulnerability and prevent the data breaches.
-  * Instructional designers and compliance officers who require measurable tracking data on employee threat evaluation capabilities to meet regulatory standards.
-  * Senior management wanting to in reducing financial losses associated with business email compromise and funds transfer fraud.
-
+  *	Administrators seeking to lower organization's vulnerability and prevent the data breaches.
+  *	Senior management wanting to in reducing financial losses associated with business email compromise and funds transfer fraud.
+    
 ---
 
-### **In-Scope Project Elements**
-* **Simulated Threat Vectors & Attack Typologies:**
-  * **Email Phishing & Impersonation:** Evaluating deceptive email tickets containing lookalike domains, spoofed authentication headers, credential harvesting links, and malicious file attachments.
-  * **Multi-Channel Scams (Smishing & Vishing):** Navigating incoming mobile SMS alerts and interactive audio vishing phone calls that simulate executive or IT helpdesk impersonation.
-* **Core Gameplay Mechanics & Interface Modules:**
-  * **Workstation Ticket Console & Virtual Smartphone:** Inspecting ticket artifacts, checking internal directory sticky notes, and interacting with smartphone pop-up alerts.
-  * **Out-of-Band Secondary Verification:** Practicing secondary-channel verification via internal phone extensions prior to executing high-risk actions.
-  * **Indicator-Level Feedback Subsystem:** Reviewing post-scenario debrief panels that highlight exact red flags, explain psychological manipulation principles, and guide corrective behavior without rigid failure states.
-* **Technical System Architecture:**
-  * **Event-Driven Finite State Machine (FSM):** Implementing a state-driven logic engine in an interactive game engine (such as Unity or Ren'Py) to systematically govern gameplay state transitions across workstation, mobile, and feedback phases.
+### **Scope**
+In-Scope:
+*	Simulated Threats: Multi-channel social engineering scenarios including phishing emails, smishing texts, and audio vishing calls.
+*	Core Mechanics: Virtual workstation console, interactive smartphone interface, out-of-band phone verification, and indicator-level feedback overlays.
+*	Architecture: An Event-Driven Finite State Machine (FSM) managing gameplay states and narrative transitions.
+Out-of-Scope:
+*	Advanced Technical Skills: Offensive malware creation, live exploits, buffer overflows, or technical packet analysis.
+Summary: Basic cybersecurity literacy and behavioral threat awareness for general end-users, rather than technical professional training.
 
-### **Out-of-Scope Project Elements**
-* **Offensive Exploit & Malware Development:** Active creation of weaponized malware binaries, reverse engineering of real-world payloads, buffer overflow exploits, or live network packet sniffing.
-* **Physical Hardware & Virtual Reality (VR) Equipment:** Physical escape-room lockboxes, IoT wearable sensors, or dedicated VR headsets; the simulation is designed specifically for standard desktop and web browser environments to minimize hardware dependency.
-#### To summarize : Anything to technical. The project is focused on basic awareness of cyber literacy rather than developing them as an offensive/defensive cyber professional
 
 ### References
 
